@@ -31,7 +31,7 @@ import Tagger 0.1
 MainView {
     id: mainView
 
-    applicationName: "openstore.tagger"
+    applicationName: "tagger.belohoub"
 
     Component.onCompleted: i18n.domain = "tagger"
 
